@@ -39,7 +39,7 @@ const projectsConfig = [
 const siteSettings = {
     ownerName: "YOUSEF",
     age: 17,
-    typingText: "أنا يوسف اشتي، عمري 17 سنة من القدس - فلسطين. يوتيوبر ومبرمج ومالك لعدة مشاريع، وبحب أطور حالي وأشتغل على أفكاري. غير هيك بشتغل بالحلاقة وبحاول أوازن بين شغلي وشغفي بكل المجالات اللي بحبها."
+    typingText: "I am Yousef My Age 17 And the founder and owner of several major projects
 };
 
 const socialLinks = [
