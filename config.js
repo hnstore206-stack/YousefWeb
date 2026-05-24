@@ -39,7 +39,7 @@ const projectsConfig = [
 const siteSettings = {
     ownerName: "YOUSEF",
     age: 17,
-    typingText: "I am Yousef My Age 17 And the founder and owner of several major projects
+    typingText: "I am Yousef My Age 17 And the founder and owner of several major projects"
 };
 
 const socialLinks = [
